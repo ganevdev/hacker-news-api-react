@@ -1,4 +1,6 @@
-# Create React App Ganevru
+# hacker-news-api-react
+
+Based on tutorial: https://www.robinwieruch.de/react-fetching-data
 
 More about templates: https://create-react-app.dev/docs/custom-templates
 
